@@ -24,12 +24,12 @@
     xmlns:rim="http://www.blackberry.com/ns/widgets"
     xmlns:android="http://schemas.android.com/apk/res/android"
     id="cordova-plugin-jitsi-meet-sdk"
-    version="4.0.5">
+    version="4.0.6">
     <name>Jitsi Meet</name>
     <description>Cordova plugin with Jitsi Meet SDK features</description>
     <license>Apache 2.0</license>
     <keywords>cordova,jitsi,sdk,android,ios</keywords>
-    <repo>https://github.com/Zeno97/cordova-plugin-jitsi-meet-sdk.git</repo>
+    <repo>https://github.com/gabrielfalcone/cordova-plugin-jitsi-meet-sdk.git</repo>
 
     <js-module src="www/jitsi-meet.js" name="JitsiMeet">
         <clobbers target="JitsiMeet" />
